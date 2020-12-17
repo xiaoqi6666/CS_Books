@@ -20,7 +20,7 @@ Leetcode cookbook：
 《算法-第四版》
 这本书非常适合初学者，强烈推荐。
 
-《算法导论》  
+《算法导论》[百度网盘链接](https://pan.baidu.com/s/1LKGGIi7OWNR6mLDS3UXW6w)  密码: 9hwl  
 曾在我的多个视频中提到，这本书更偏理论，证明比较多，对找工作可能帮助不大。  
 
 
