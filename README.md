@@ -11,19 +11,15 @@
 
 
 ## 算法
-谷歌师兄刷题笔记：[百度网盘链接](https://pan.baidu.com/s/1MWwkk-cg6fR0Ft0VOF75JQ)  密码: 349g  
-介绍：
-Leetcode cookbook：[百度网盘链接](https://pan.baidu.com/s/1hYRK9jbqXebhChrLMKsSBg)  密码: rrr7    
-介绍：  
+谷歌师兄刷题笔记 [介绍](https://zhuanlan.zhihu.com/p/334996379)  [百度网盘链接](https://pan.baidu.com/s/1MWwkk-cg6fR0Ft0VOF75JQ)  密码: 349g  
 
+Leetcode cookbook [介绍](https://www.zhihu.com/zvideo/1313079117991636992)  [百度网盘链接](https://pan.baidu.com/s/1hYRK9jbqXebhChrLMKsSBg)  密码: rrr7    
 
 《算法-第四版》[百度网盘链接](https://pan.baidu.com/s/15LlLxj1fWI2lf38HpdPT_Q)  密码: khc7  
 这本书非常适合初学者，强烈推荐。
 
 《算法导论》[百度网盘链接](https://pan.baidu.com/s/1LKGGIi7OWNR6mLDS3UXW6w)  密码: 9hwl  
 曾在我的多个视频中提到，但是这本书更偏理论，证明比较多，对找工作可能帮助不大。  
-
-
 
 ## 计算机基础：
 
@@ -74,8 +70,6 @@ Redis 是世界上最受欢迎的非关系型数据库之一，常常用来当�
 Redis 本身的语法并不复杂，同学们可以找到很多这方面的语法教学资料。  
 面试时候常常会被问到，Redis 为什么会这么快？如果只是回答因为它是基于内存的数据库，那么面试就凉凉啦。真正的关键秘诀是在于 Redis 的设计与实现，阅读这本书你会发现，Redis 是通过一系列底层设计来保证它快速存取的性能。  
 
-
-
 ## 语言和框架
 
 ### Java 
@@ -99,7 +93,6 @@ Redis 本身的语法并不复杂，同学们可以找到很多这方面的语�
 
 《Spring 实战》[百度网盘链接](https://pan.baidu.com/s/1pvYdr7_LjB9c9aGv7lJ75g)  密码: 6b6w    
 学习一门语言和框架我认为最好的方式就是做项目，Java 的 Spring 框架是必须要用的。  
-
 
 ### C/C++
 *C++ primer* [百度网盘链接](https://pan.baidu.com/s/1XYgb8fVoOXxv8ZwgyHrL7g)  密码: svw3  
