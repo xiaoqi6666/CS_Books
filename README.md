@@ -9,6 +9,40 @@
 如果不知道从哪里开始看起、不知道学习路线是怎样的，建议先读读我的这篇学习路线的文章：  
 
 
+书籍目录：
+
+
+| 类别      | 书名|         推荐理由 | 下载链接 | 
+| :--------- | :--: | -----------: |----------: |
+| 算法    |  谷歌师兄刷题笔记 | 必看，不必多说 |[百度网盘链接](https://pan.baidu.com/s/1MWwkk-cg6fR0Ft0VOF75JQ)  密码: 349g  | 
+|  |  Leetcode cookbook   |   必看，不需多说 |[百度网盘链接](https://pan.baidu.com/s/1hYRK9jbqXebhChrLMKsSBg)  密码: rrr7 | 
+|  |  《算法-第四版》  | 这本书非常适合初学者，强烈推荐。 |[百度网盘链接](https://pan.baidu.com/s/15LlLxj1fWI2lf38HpdPT_Q)  密码: khc7  |
+| | 《算法导论》| 装x用的 | [百度网盘链接](https://pan.baidu.com/s/1LKGGIi7OWNR6mLDS3UXW6w)  密码: 9hwl  | 
+| Linux| 《鸟哥私房菜》 |  Linux 第一 |[百度网盘链接](https://pan.baidu.com/s/1eSJSuSWYz43KsdEQT5OuWQ)  密码: i9ar    |
+| 操作系统| 《深入理解计算机系统》CSAPP | 领略整个计算机世界 | |
+| |《现代操作系统》|原理 + 算法 |[百度网盘链接](https://pan.baidu.com/s/154WG0FldbSO_cxKaig4TQg)  密码: p7w0     |
+||《自己动手写操作系统》|从零开始实现一个操作系统内核|[百度网盘链接](https://pan.baidu.com/s/1ypL__CxDuSF6tLEgqDQKwg)  密码: 7cf0  |
+||《操作系统真象还原》|从零开始实现操作系统 | [百度网盘链接](https://pan.baidu.com/s/1Jz80lw9S3B5lqkfaDtFJfw)  密码: 4f3o   |
+|计算机网络|《计算机网络-自顶向下方法》| 各大高校教材，强悍无须解释 | [百度网盘链接](https://pan.baidu.com/s/1S-u7hqmV5RHXEzeRey83LQ)  密码: cu10   |
+||斯坦福大学 CS 144 计算机网络| 配套课程| [B 站链接](https://www.bilibili.com/video/av96841516/)  |
+
+|数据库 | 《MySQL 必知必会》|入门级，不讲原理，适合初学者| [百度网盘链接](https://pan.baidu.com/s/1ad4Wcq5MNN3gZES-7hZKgQ)  密码: vhn0    | 
+||《MySQL 技术内幕：InnoDB 存储引擎》|底层原理 | [百度网盘链接](https://pan.baidu.com/s/1WeK80JBLQ1KVB-HzsQGNWw)  密码: 5bv1    |
+||《Redis 设计与实现》|Redis为什么这么快？|[百度网盘链接](https://pan.baidu.com/s/1whz5prBIbHVeYdVM_qlW_g)  密码: de2i  |
+| Java | 面试必看——JAVA核心知识点整理 | 面试小抄 | [百度网盘链接](https://pan.baidu.com/s/1bKLdoqsZxW8DBVUcDni_yg)  密码: m18b| 
+||《Java 技术核心 卷I》| 入门 Java 的基础书籍 | [百度网盘链接](https://pan.baidu.com/s/1ieVmgFCoGED-dYM_0o_8dw)  密码: vjiw    |
+||*Head First Java* | 入门书 | [百度网盘链接](https://pan.baidu.com/s/1wn0Lt8mq10bBJs2gFd_aBg）  密码: hout  |
+||*Effective Java* | 经典中的经典 | [百度网盘链接](https://pan.baidu.com/s/1d_8KxdBhDvBFQ6C1eezxiw)  密码: 3ku9  |
+||《深入理解 Java 虚拟机》| 学习 JVM 必看 | [百度网盘链接](https://pan.baidu.com/s/1XgZAVhJHYjGmNEodu-FxAw)  密码: wpul    |
+||《Java 并发编程的艺术》|高并发必读 |  [百度网盘链接](https://pan.baidu.com/s/1Y_XphroMZTA9HTZj9Mr86w)  密码: hl7d    |
+| Spring 框架|《Spring 实战》| 项目必须 | [百度网盘链接](https://pan.baidu.com/s/1pvYdr7_LjB9c9aGv7lJ75g)  密码: 6b6w    |
+| C/C++ | *C++ Primer*| 前几章讲 C，后面 C++ | [百度网盘链接](https://pan.baidu.com/s/1XYgb8fVoOXxv8ZwgyHrL7g)  密码: svw3  |
+| |*Effective C++*| 经典中的经典 | [百度网盘链接](https://pan.baidu.com/s/1GWL5hWsd6SjdM0d4mrdsfQ)  密码: 7thh  |
+||*More Effective C++*| C++ 进阶 | [百度网盘链接](https://pan.baidu.com/s/1-EuYr3MUQBgAGgJXn8V8ZA)  密码: duoh  |
+
+
+
+
 所有书籍一键下载：在我的微信公众号【码农田小齐】回复【05】即可。  
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1glr5wuxpamj31bi0hc0vi.jpg)
@@ -99,7 +133,7 @@ Redis 本身的语法并不复杂，同学们可以找到很多这方面的语�
 学习一门语言和框架我认为最好的方式就是做项目，Java 的 Spring 框架是必须要用的。  
 
 ### C/C++
-- ***C++ primer*** [百度网盘链接](https://pan.baidu.com/s/1XYgb8fVoOXxv8ZwgyHrL7g)  密码: svw3  
+- ***C++ Primer*** [百度网盘链接](https://pan.baidu.com/s/1XYgb8fVoOXxv8ZwgyHrL7g)  密码: svw3  
 学习 C/C++ 的必备书。前几章讲 C 的，后面才是 C++，包含了 C++ 的方方面面。  
 
 - ***Effective C++*** [百度网盘链接](https://pan.baidu.com/s/1GWL5hWsd6SjdM0d4mrdsfQ)  密码: 7thh  
