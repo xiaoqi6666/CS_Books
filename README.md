@@ -11,7 +11,6 @@
 
 书籍目录：
 
-
 | 类别      | 书名|         推荐理由 | 下载链接 | 
 | :--------- | :--: | -----------: |----------: |
 | 算法    |  谷歌师兄刷题笔记 | 必看，不必多说 |[百度网盘链接](https://pan.baidu.com/s/1MWwkk-cg6fR0Ft0VOF75JQ)  密码: 349g  | 
@@ -25,7 +24,6 @@
 ||《操作系统真象还原》|从零开始实现操作系统 | [百度网盘链接](https://pan.baidu.com/s/1Jz80lw9S3B5lqkfaDtFJfw)  密码: 4f3o   |
 |计算机网络|《计算机网络-自顶向下方法》| 各大高校教材，强悍无须解释 | [百度网盘链接](https://pan.baidu.com/s/1S-u7hqmV5RHXEzeRey83LQ)  密码: cu10   |
 ||斯坦福大学 CS 144 计算机网络| 配套课程| [B 站链接](https://www.bilibili.com/video/av96841516/)  |
-
 |数据库 | 《MySQL 必知必会》|入门级，不讲原理，适合初学者| [百度网盘链接](https://pan.baidu.com/s/1ad4Wcq5MNN3gZES-7hZKgQ)  密码: vhn0    | 
 ||《MySQL 技术内幕：InnoDB 存储引擎》|底层原理 | [百度网盘链接](https://pan.baidu.com/s/1WeK80JBLQ1KVB-HzsQGNWw)  密码: 5bv1    |
 ||《Redis 设计与实现》|Redis为什么这么快？|[百度网盘链接](https://pan.baidu.com/s/1whz5prBIbHVeYdVM_qlW_g)  密码: de2i  |
@@ -39,7 +37,6 @@
 | C/C++ | *C++ Primer*| 前几章讲 C，后面 C++ | [百度网盘链接](https://pan.baidu.com/s/1XYgb8fVoOXxv8ZwgyHrL7g)  密码: svw3  |
 | |*Effective C++*| 经典中的经典 | [百度网盘链接](https://pan.baidu.com/s/1GWL5hWsd6SjdM0d4mrdsfQ)  密码: 7thh  |
 ||*More Effective C++*| C++ 进阶 | [百度网盘链接](https://pan.baidu.com/s/1-EuYr3MUQBgAGgJXn8V8ZA)  密码: duoh  |
-
 
 
 
