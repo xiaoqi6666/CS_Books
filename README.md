@@ -8,6 +8,8 @@
 
 如果不知道从哪里开始看起、不知道学习路线是怎样的，建议先读读我的这篇学习路线的文章：  #TODO
 
+如何系统的自学？https://teachyourselfcs.com/
+
 强烈推荐计算机趣味入门视频：
 **Crash Computer Science** [B站链接](https://www.bilibili.com/video/BV1EW411u7th) [Youtube 链接](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 
